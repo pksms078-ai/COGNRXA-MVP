@@ -1,9 +1,5 @@
 Purpose:
-Core COGNRXA concept.
-Tasks:
+Decision support.
+Example:
 Plain text
-Analyze historical records.
-
-Identify lessons learned.
-
-Generate retrospective observations.
+Historical evidence indicates Option B has higher success probability.
