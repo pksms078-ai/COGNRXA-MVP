@@ -1,0 +1,55 @@
+YAML
+project:
+  name: COGNRXA AI
+
+version:
+  current: 0.1.0
+
+engines:
+  knowledge_extraction: enabled
+  pattern_discovery: enabled
+  retrospective_analysis: enabled
+  insight_generation: enabled
+  decision_support: enabled
+
+database:
+  type: sqlite
+
+frontend:
+  framework: react
+
+backend:
+  framework: flask
+
+deployment:
+  environment: local
+
+
+
+No intelligence can exist without memory.
+
+Database Flow:
+
+Documents
+↓
+Knowledge Repository
+↓
+Pattern Repository
+↓
+Insight Repository
+↓
+Decision Repository
+
+Current MVP Database:
+
+SQLite
+
+Future Databases:
+
+PostgreSQL
+
+MySQL
+
+MongoDB
+
+Enterprise Data Lakes
